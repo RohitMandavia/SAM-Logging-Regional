@@ -62,7 +62,7 @@ Resources:
             swagger: "2.0"
             info:
               version: "2018-06-06T21:54:57Z"
-              title: "Regional PetStore with Logging 3"
+              title: "Regional PetStore with Logging"
             host: "execute-api.us-east-1.amazonaws.com"
             basePath: "/test"
             schemes:
