@@ -44,7 +44,7 @@ Resources:
             type: array
         host: execute-api.us-east-1.amazonaws.com
         info:
-          title: Regional PetStore with Logging 3
+          title: Regional PetStore with Logging
           version: '2018-06-06T21:54:57Z'
         paths:
           /:
